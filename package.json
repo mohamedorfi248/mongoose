@@ -1,0 +1,21 @@
+{
+  "name": "application-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodemon",
+    "expres",
+    "mongodb",
+    "node"
+  ],
+  "author": "mohamed orfi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  }
+}
